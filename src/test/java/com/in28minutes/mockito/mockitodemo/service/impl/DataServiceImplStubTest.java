@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import com.in28minutes.mockito.mockitodemo.service.DataService;
 
-class DataServiceImplTest {
+class DataServiceImplStubTest {
 
 	@Test
 	void findTheGreatestFromAllData() {
